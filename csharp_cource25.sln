@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp_cource25", "csharp_c
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp_cource25Tests1", "csharp_cource25Tests1\csharp_cource25Tests1.csproj", "{FCFC4992-E4C6-4F1D-BB01-BF470AE4988B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMathLib", "MyMathLib\MyMathLib.csproj", "{3829A725-B24D-46FC-B166-1DB8B5ABEA20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{FCFC4992-E4C6-4F1D-BB01-BF470AE4988B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCFC4992-E4C6-4F1D-BB01-BF470AE4988B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCFC4992-E4C6-4F1D-BB01-BF470AE4988B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3829A725-B24D-46FC-B166-1DB8B5ABEA20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3829A725-B24D-46FC-B166-1DB8B5ABEA20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3829A725-B24D-46FC-B166-1DB8B5ABEA20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3829A725-B24D-46FC-B166-1DB8B5ABEA20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
